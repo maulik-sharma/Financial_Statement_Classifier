@@ -1,0 +1,6 @@
+.idea
+.venv
+dataset
+*.pth
+database.db
+__pycache__
